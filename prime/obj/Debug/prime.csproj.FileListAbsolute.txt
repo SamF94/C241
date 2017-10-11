@@ -1,0 +1,6 @@
+C:\Users\Sam\Desktop\COMP241\prime\prime\bin\Debug\prime.exe.config
+C:\Users\Sam\Desktop\COMP241\prime\prime\bin\Debug\prime.exe
+C:\Users\Sam\Desktop\COMP241\prime\prime\bin\Debug\prime.pdb
+C:\Users\Sam\Desktop\COMP241\prime\prime\obj\Debug\prime.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\COMP241\prime\prime\obj\Debug\prime.exe
+C:\Users\Sam\Desktop\COMP241\prime\prime\obj\Debug\prime.pdb
